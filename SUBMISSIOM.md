@@ -6,7 +6,7 @@
 
 1- Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-![Dockerfile](hw8/Dockerfile)
+[Dockerfile](hw8/Dockerfile)
 
 2- Your running docker instance as shown by a ps command.
 ![step-2](images2/2.png)
@@ -32,10 +32,12 @@ tainer when you run the application from the host system.
 ##DOCKER
 
 7- Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
-![docker-compose](hw8/docker-compose.yml)
+
+[docker-compose](hw8/docker-compose.yml)
 
 8- Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
-![step-8](src/main/resources/application-mysql.properties)
+
+[properties file](src/main/resources/application-mysql.properties)
 
 9- The output from the docker-compose up command.
 ![step-9](images2/9.png)
